@@ -1,0 +1,200 @@
+/* font-family */
+/* 
+font-family: 'Bebas Neue', cursive;
+font-family: 'JetBrains Mono', monospace;
+font-family: 'Josefin Slab', serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Zilla Slab', serif;
+*/
+body {
+  background-color: #ffffff;
+}
+/* font for all h1 tag */
+h1{
+    font-family: "Bebas Neue", cursive;
+}
+/* font-family for all p tag */
+p{
+    font-family: 'Zilla Slab', serif;
+}
+/* all h3 font family */
+h3{
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 20px;
+    
+}
+/* cntrol-1 */
+.control-1 {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  height: 1100px;
+}
+nav a {
+  text-decoration: none;
+  color: #3c3c3c;
+  margin-left: 2%;
+}
+nav {
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+  text-align: right;
+  margin-right: 3%;
+  margin-top: 10px;
+}
+.half-width {
+  width: 40%;
+  float: left;
+  min-height: 400px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  padding: 20px;
+  margin-left: 4.5%;
+}
+.highlight {
+  color: #ff8367;
+}
+.Identity h1 {
+  font-size: 50px;
+  font-weight: 500;
+  line-height: 19px;
+}
+.Identity p {
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+.my-button {
+  text-decoration: none;
+  color: rgb(248, 241, 241);
+  background-color: #ff8063;
+  padding: 15px 20px;
+  border-radius: 10px;
+  margin-top: 60px;
+}
+.my-button img {
+  height: 20px;
+  margin-right: 2%;
+}
+.image-size img {
+  width: 400px;
+}
+/* Control-2 start */
+.control-2 {
+  background-color: #e5e5e5;
+  height: 800px;
+  margin-bottom: 80px;
+  text-align: center;
+}
+.control-2  h1{
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 40px;
+   padding: 40px;
+    
+
+}
+
+.one-third {
+  width: 370px;
+  float: left;
+  height: 374px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  padding: 15px;
+  margin-left: 1%;
+}
+.works {
+  margin-left: 3%;
+}
+.work img {
+  height: 200px;
+  padding: 0px;
+
+}
+.border-site{
+    border-left: 4px solid rgba(128, 128, 128, 0.801);
+    border-right: 4px solid gray;
+    border-radius: 5%;
+
+}
+.work{
+  box-shadow: 10px 10px 40px rgb(85, 85, 85);
+  background-color: rgb(255, 255, 255);
+  border-radius: 20px;
+}
+/* control-3 start */
+.control-3 {
+    background-image: linear-gradient(45deg, #FFDEE9 0%, #B5FFFC 100%);
+    height: 800px;
+    margin-bottom: 200px;
+    text-align: center;
+ 
+  }
+
+  .control-3  h1{
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 40px;
+   padding: 40px;
+    
+}
+.one-third-1 {
+    background-color: tomato;
+    width: 370px;
+    float: left;
+    height: 200px;
+    margin-bottom: 50px;
+    padding: 15px;
+    margin-left: 2%;
+  }
+
+.services img{
+    height: 100px;
+   padding: 0px;
+   margin-top: -50px;
+}
+.service{
+    box-shadow: 10px 10px 40px rgb(85, 85, 85);
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+}
+
+
+
+/* inquiry */
+.half-width2 {
+  display: inline-block;
+  margin-left: 12%;
+  margin-right: 5%;
+  margin-top: 3.5%;
+}
+.inquiry {
+  background-image: url(images/shep1.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 200px;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.inquiry h1 {
+  font-family: "Josefin Slab", serif;
+  font-size: 50px;
+  color: white;
+}
+
+
+
+/* footer */
+footer {
+  margin-top: 60px;
+  text-align: center;
+
+}
+footer h2{
+    font-family: 'JetBrains Mono', monospace;
+    
+}
+footer img {
+  height: 30px;
+  margin-left: 10px;
+}
